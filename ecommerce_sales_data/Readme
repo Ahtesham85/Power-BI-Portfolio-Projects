@@ -1,0 +1,9 @@
+This CSV files contain data over 3500 rows with following columns
+1. Order Date
+2. Product Name
+3. Category
+4. Region
+5. Sales
+6. Profit
+
+To view the visualization, download the pbix file.
